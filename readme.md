@@ -26,7 +26,7 @@ Check out the live demo [here](https://dictionarywebap.netlify.app/).
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/mranas007/Dictionary-Web-App.git`
 2. Open the project directory in your code editor.
 3. Open `index.html` in your web browser or start a local server to view the application.
 
